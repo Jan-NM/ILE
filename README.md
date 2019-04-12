@@ -16,7 +16,7 @@ The following sections describe how to install a copy of the software. Detailed 
 
 ### Installing
 
-* download the software package from https://github.com/ILE
+* download the software package from https://github.com/Jan-NM/ILE
 * extract **ILE-master.zip**
 * copy the generated **ILE-master** directory into your local Matlab working directory (on Windows machines, usually C:\Users\ "user name"\Documents\MATLAB)
 * to use ILE, right click on ILE-master in Matlab's current folder panel, go to "*Add to Path*" and click on "*Selected Folders and Subfolders*"
